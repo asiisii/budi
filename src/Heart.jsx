@@ -22,7 +22,7 @@ const Heart = () => {
 				setDisplayText(true)
 				setTimeout(() => {
 					setIsVisible(true)
-				}, 11500)
+				}, 10000)
 			})
 		}
 
